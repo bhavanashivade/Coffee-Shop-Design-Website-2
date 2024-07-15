@@ -446,6 +446,19 @@ section {
         padding: 2rem;
     }
 
+
+
+    .home {
+
+        /* background-position: left;
+        justify-content: center;
+        text-align: center; */
+
+        margin-top: 30%;
+
+    }
+
+
 }
 
 
@@ -504,6 +517,8 @@ section {
         background-position: left;
         justify-content: center;
         text-align: center;
+
+        margin-top: 30%;
 
     }
 
