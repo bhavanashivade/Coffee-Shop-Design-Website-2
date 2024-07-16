@@ -730,8 +730,6 @@ section {
 
 
 
-
-
 .footer {
 
     background: var(--black);
@@ -874,10 +872,12 @@ section {
 
 
 
-    #menu-btn {
+    /* #menu-btn {
 
         display: inline-block;
-    }
+    } */
+
+
 
     .header .navbar {
 
@@ -891,11 +891,15 @@ section {
 
     }
 
+
+    /* 
     .header .navbar .active {
 
         right: 0;
 
-    }
+    } */
+
+
 
     .header .navbar a {
 
